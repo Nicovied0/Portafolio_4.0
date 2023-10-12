@@ -8,7 +8,32 @@
   },
   "PROFILE": {
     "HI": "Hola! Soy",
-    "LORE":" Soy desarrollador Full Stack con habilidades en diversas tecnologías. Me destaco por ser resolutivo, detallista y capaz de tomar decisiones informadas para encontrar soluciones creativas. Mi enfoque en proyectos complejos se respalda en habilidades de liderazgo, pensamiento lógico y trabajo en equipo.",
-    "DOWNLOAD":"DESCARGAR CV"
+    "LORE": " Soy desarrollador Full Stack con habilidades en diversas tecnologías. Me destaco por ser resolutivo, detallista y capaz de tomar decisiones informadas para encontrar soluciones creativas. Mi enfoque en proyectos complejos se respalda en habilidades de liderazgo, pensamiento lógico y trabajo en equipo.",
+    "DOWNLOAD": "DESCARGAR CV"
+  },
+  "ABOUT_ME": {
+    "TITLE": "Sobre Mí",
+    "CHARACTER": "Me caracterizo por ser una persona autodidacta, siempre intentando aprender nuevas tecnologías y herramientas.",
+    "NOW": "Actualmente estoy buscando trabajo de lo que me apasiona, en un lugar que me permita seguir aprendiendo y crecer personalmete.",
+    "WORKS": "Siempre dispuesto al trabajo en equipo y en aprendizaje continuo."
+  },
+  "SKILLS": "Habilidades",
+  "STUDIES": "Formación",
+  "PROYECTS": {
+    "TITLE": "Proyectos",
+    "TECHNOLOGIES": "Tecnologías",
+    "DESCRIPTION_BV": "Desarrollé una aplicación para la gestión de datos y procesos digitales de los bomberos en Santa Catalina. La app permite asignación de roles, registro de usuarios, publicación de datos,mantenimiento y transparencia de la institucion.",
+    "DESCRIPTION_CAMPITO": "Practica profesional en el Campito Refugio ONG, que necesitaba actulizar su web e implentar nuevas funcionalidades.",
+    "DESCRIPTION_TIENDA": "Esta es una tienda Web, posee una base de datos que puede ser modificada por usuarios administradores en un panel especifico de ellos, y pudes simular una compra de productos con mercado-pago.",
+    "DESCRIPTION_PI": "Proyecto Individual, en el cual cree una app Full Stack con integraciones de base de datos, back y front. Consumiendo la API de Paises.",
+    "DESCRIPTION_DOLAR": "Aplicacion que muestra las distintas cotizaciones del dolar en el momento actual. Calculadora de impuestos y precios de las principales plataformas de streaming.",
+    "DESCRIPTION_RICK": "Proyecto Front End, en el que se consume la api de Rick and Morty, mostrando y filtrando los personajes.",
+    "DESCRIPTION_POMODORO":"Esta es una aplicación, que utiliza la popular técnica de productividad Pomodoro. Con una interfaz intuitiva y fácil de usar, esta aplicación te ayuda a mantener el enfoque y aumentar la productividad al dividir tu tiempo en ciclos de trabajo y descanso."
+  },
+  "CONTACT":{
+    "TITLE":"Quieres contactarme?",
+    "TELL_ME":"¡Hablemos!",
+    "CONTACT":"Contactar"
   }
+
 }

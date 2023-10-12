@@ -8,8 +8,33 @@
   },
   "PROFILE": {
     "HI": "Hello! Am",
-    "LORE":"I am a Full Stack developer with skills in various technologies. I stand out for being decisive, detail-oriented and capable of make informed decisions to find creative solutions. My focus on complex projects is supported by leadership, logical thinking and teamwork.",
-    "DOWNLOAD":"DOWNLOAD CV"
+    "LORE": "I am a Full Stack developer with skills in various technologies. I stand out for being decisive, detail-oriented and capable of make informed decisions to find creative solutions. My focus on complex projects is supported by leadership, logical thinking and teamwork.",
+    "DOWNLOAD": "DOWNLOAD CV"
+  },
+  "ABOUT_ME": {
+    "TITLE": "About me",
+    "CHARACTER": "I characterize myself as a self-taught person, always trying to learn new technologies and tools.",
+    "NOW": "I am currently looking for a job that I am passionate about, in a place that allows me to continue learning and grow personally.",
+    "WORKS": "Always willing to work as a team and continuously learn."
+  },
+  "SKILLS": "Skills",
+  "STUDIES": "Studies",
+  "PROYECTS": {
+    "TITLE": "Proyects",
+    "TECHNOLOGIES": "Technologies",
+    "DESCRIPTION_BV": "I developed an application for data management and digital processes of firefighters in Santa Catalina. The app allows role assignment, user registration, data publication, maintenance and transparency of the institution.",
+    "DESCRIPTION_CAMPITO": "Professional practice in the Campito Refugio ONG that needed to update its website and implement new functionalities.",
+    "DESCRIPTION_TIENDA": "This is a Web store, it has a database that can be modified by administrative users in a specific panel of theirs, and you can simulate a purchase of products with market-payment.",
+    "DESCRIPTION_PI": "Individual Project, in which I created a Full Stack app with database integrations, back and front. Consuming the API Countries.",
+    "DESCRIPTION_DOLAR": "Application that shows the different dollar quotes at the current time. Tax and price calculator for the main streaming platforms.",
+    "DESCRIPTION_RICK": "Front End project, in which the Rick and Morty API is consumed, displaying and filtering the characters.",
+    "DESCRIPTION_POMODORO": "This is an app, which uses the popular Pomodoro productivity technique. With an intuitive and easy-to-use interface, this app helps you maintain focus and increase productivity by dividing your time into work and rest cycles."
+  },
+  "CONTACT": {
+    "TITLE": "Do you want to contact me?",
+    "TELL_ME":"Let's talk!",
+    "CONTACT":"Contact"
+
 
   }
 }

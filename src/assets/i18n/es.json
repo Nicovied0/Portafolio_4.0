@@ -1,0 +1,14 @@
+{
+  "NAV": {
+    "ABOUT_ME": "Sobre Mí",
+    "SKILLS": "Habilidades",
+    "TOOLS": "Formación",
+    "PROJECTS": "Proyectos",
+    "CONTACT": "Contacto"
+  },
+  "PROFILE": {
+    "HI": "Hola! Soy",
+    "LORE":" Soy desarrollador Full Stack con habilidades en diversas tecnologías. Me destaco por ser resolutivo, detallista y capaz de tomar decisiones informadas para encontrar soluciones creativas. Mi enfoque en proyectos complejos se respalda en habilidades de liderazgo, pensamiento lógico y trabajo en equipo.",
+    "DOWNLOAD":"DESCARGAR CV"
+  }
+}

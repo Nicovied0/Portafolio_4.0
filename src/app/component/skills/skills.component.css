@@ -1,0 +1,135 @@
+.skills {
+  width: 100%;
+  margin: 0 auto;
+  padding: 130px 35px;
+  background-color: var(--color-background-light);
+}
+
+.skills__container {
+  flex-direction: column;
+}
+
+.skills__title {
+  text-decoration: underline;
+  font-size: 46px;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.title__container {
+  justify-content: center;
+}
+
+
+.skills__logo-bottom {
+  width: 100%;
+  max-width: 1160px;
+  display: flex;
+  align-items: baseline;
+  margin: 0 2rem;
+  justify-content: space-evenly;
+}
+
+.skills__logo-top {
+  width: 100%;
+  max-width: 1160px;
+  display: flex;
+  align-items: baseline;
+  margin: 0 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.skills__logo-bottom {
+  margin-top: 35px;
+  /* padding: 0 230px; */
+}
+
+.skills__logo {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 1rem 1.2rem;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+}
+
+.skills__logo:hover {
+  transform: scale(1.2);
+}
+
+.skills__logo:hover svg,
+.skills__logo:hover p {
+  color: var(--color-secondary);
+}
+
+.skills__logo svg {
+  width: 70px;
+  color: var(--color-quaternary);
+  transition: 0.5s;
+}
+
+.skills__logo p {
+  font-size: 16px;
+  white-space: pre;
+  font-weight: 400;
+  margin-top: 12px;
+  color: var(--color-quaternary);
+  transition: all 0.17s ease-in-out;
+
+
+}
+
+.skills__container2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+
+@media screen and (max-width: 1160px) {
+
+  .skills__logo-top,
+  .skills__logo-bottom {
+    max-width: 980px;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+
+  .skills__logo-top,
+  .skills__logo-bottom,
+  .skills__container {
+    flex-direction: column;
+  }
+
+  .skills__container {
+    max-width: 480px;
+  }
+
+  .skills__logo-top {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    gap: 35px;
+
+    padding: 0;
+  }
+
+  .skills__logo-bottom {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    gap: 35px;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .skills {
+    padding: 65px 25px;
+  }
+}

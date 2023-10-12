@@ -1,0 +1,15 @@
+{
+  "NAV": {
+    "ABOUT_ME": "About me",
+    "SKILLS": "Skills",
+    "TOOLS": "tools",
+    "PROJECTS": "Projects",
+    "CONTACT": "Contact"
+  },
+  "PROFILE": {
+    "HI": "Hello! Am",
+    "LORE":"I am a Full Stack developer with skills in various technologies. I stand out for being decisive, detail-oriented and capable of make informed decisions to find creative solutions. My focus on complex projects is supported by leadership, logical thinking and teamwork.",
+    "DOWNLOAD":"DOWNLOAD CV"
+
+  }
+}

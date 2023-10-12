@@ -3,7 +3,7 @@ import { LanguageService } from 'src/app/language.service';
 @Component({
   selector: 'app-nav',
   templateUrl: './nav.component.html',
-  styleUrls: ['./nav.component.css']
+  styleUrls: ['./nav.component.css', './nav.component.responsive.css']
 })
 export class NavComponent {
   active = false;

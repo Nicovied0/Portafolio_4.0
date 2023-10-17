@@ -89,7 +89,21 @@
             download="CV_Nicolas_Oviedo.pdf"
             target="_blank"
             class="hero__button"
+            *ngIf="esOn"
+
           >
+
+            {{ "PROFILE.DOWNLOAD" | translate }}
+            <i class="fa-solid fa-download"></i
+          ></a>
+          <a
+            href="./assets/about/NICOLAS_OVIEDO_ENGLISH.pdf"
+            download="CV_Nicolas_Oviedo.pdf"
+            target="_blank"
+            class="hero__button"
+            *ngIf="enOn"
+          >
+
             {{ "PROFILE.DOWNLOAD" | translate }}
             <i class="fa-solid fa-download"></i
           ></a>

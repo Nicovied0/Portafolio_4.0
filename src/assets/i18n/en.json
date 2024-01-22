@@ -25,10 +25,12 @@
     "DESCRIPTION_BV": "I developed an application for data management and digital processes of firefighters in Santa Catalina. The app allows role assignment, user registration, data publication, maintenance and transparency of the institution.",
     "DESCRIPTION_CAMPITO": "Professional practice in the Campito Refugio ONG that needed to update its website and implement new functionalities.",
     "DESCRIPTION_TIENDA": "This is a Web store, it has a database that can be modified by administrative users in a specific panel of theirs, and you can simulate a purchase of products with market-payment.",
-    "DESCRIPTION_PI": "Individual Project, in which I created a Full Stack app with database integrations, back and front. Consuming the API Countries.",
+    "DESCRIPTION_AUTOMARKET": "I developed a system that manages vehicle inventories by zone, providing dealerships with a visual dashboard. It makes it easy for potential customers to view available vehicles, allowing efficient access and search to connect directly with the seller.",
     "DESCRIPTION_DOLAR": "Application that shows the different dollar quotes at the current time. Tax and price calculator for the main streaming platforms.",
     "DESCRIPTION_RICK": "Front End project, in which the Rick and Morty API is consumed, displaying and filtering the characters.",
-    "DESCRIPTION_POMODORO": "This is an app, which uses the popular Pomodoro productivity technique. With an intuitive and easy-to-use interface, this app helps you maintain focus and increase productivity by dividing your time into work and rest cycles."
+    "DESCRIPTION_POMODORO": "This is an app, which uses the popular Pomodoro productivity technique. With an intuitive and easy-to-use interface, this app helps you maintain focus and increase productivity by dividing your time into work and rest cycles.",
+    "DESCRIPTION_BANKING":"Develop an application, focused on managing a virtual wallet. The app offers users access to detailed information about their recent financial movements, current balances and provides advanced statistics for deeper financial analysis."
+
   },
   "CONTACT": {
     "TITLE": "Do you want to contact me?",
